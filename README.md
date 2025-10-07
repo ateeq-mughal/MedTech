@@ -29,6 +29,8 @@ frontend/   # Static site
 
 ## Local Development
 
+After cloning the repository from [https://github.com/ateeq-mughal/MedTech.git](https://github.com/ateeq-mughal/MedTech.git). Follow these steps:
+
 ### Backend
 ```
 cd backend
