@@ -11,8 +11,8 @@ All processing is done on the **server**.
 ## Project Structure
 
 ```
-backend/    # FastAPI app (Hugging Face Space or any server)
-frontend/   # Static site (GitHub Pages or any static host)
+backend/    # FastAPI app
+frontend/   # Static site
 ```
 
 ## Local Development
